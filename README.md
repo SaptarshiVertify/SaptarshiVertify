@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on various AI works in the field of satellite imagery analysis 
 - 📫 How to reach me : saptarshi@earthanalytics.in
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I am a diehard supporter of Real Madrid.
+- ⚡ Fun fact: I am a diehard supporter of Real Madrid. Hala Madrid y nada mas!
 
 <!---
 SaptarshiVertify/SaptarshiVertify is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
